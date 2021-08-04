@@ -1,0 +1,117 @@
+#navbar{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+#navbar img{
+
+    height: 40px;
+    width: 40px;
+}
+#navbar ul li a{
+     
+    
+    font-size:0.7rem;
+    padding: 0px 7px;
+    padding-bottom: 2px ;
+    margin-bottom: 50px;
+
+}
+#home{
+    height: 370px;
+    padding: 3px 28px;
+}
+#home::before{
+    height: 480px;
+}
+#home p{
+    font-size: 13px;
+}
+#services{
+    flex-direction: column;
+}
+#services .box{
+    padding: 14px;
+    margin: 2px 0px;
+    margin-bottom: 20px;
+    width: auto;
+}
+#LAST{
+    flex-direction: column;
+}
+#LAST .box{
+    padding:14px;
+    margin: 2px 0px;
+    margin-bottom: 20px;
+    width: auto;
+    
+}
+#LAST img{
+    
+    width: 50px;
+    padding: 6px;
+    height: auto;
+    
+}
+#contact-box form{
+    width: 80%;
+}
+.h-primary{
+    font-size: 26px;
+}
+.btn{
+    font-size: 13px;
+    padding: 4px 8px;
+}
+#services h2{
+    font-size: 1.2rem;
+}
+#Ludo img{
+    width:180px;
+} 
+#BGMI img{
+    width:180px;
+} 
+#Chess img{
+    width: 180px;
+}
+#mind-kraft img{
+    width: 180px;
+}
+#Movie-night img{
+    width: 180px;
+}
+#openmic img{
+    width: 180px;
+}
+#Guesswho img{
+    width: 180px;
+}
+#killedsara img{
+    width: 180px;
+}
+#photography img{
+    width: 180px;
+    padding-right: 4px;
+}
+#COD img{
+    width: 180px;
+}
+#mrandmiss img{
+    width: 180px;
+}
+#pirates-treasure img{
+    width: 180px;
+}
+#brain-brawl img{
+    width: 180px;
+}
+#foodle img{
+    width: 100px;
+    height: 30px;
+}
+#meme-lorded img{
+    width: 180px;
+}
+
